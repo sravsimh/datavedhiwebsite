@@ -565,7 +565,8 @@ body {
 }
 
 .about-img img {
-    width: 70%;
+    width: 100%;
+    height: 380px;
     padding: 30px;
     border-radius: 40px;
 }
@@ -1082,7 +1083,7 @@ button:hover .index {
 
 .blogs {
     height: 420px;
-    width: 40%;
+    width: 25%;
     margin: 20px;
     border-radius: 8px;
     position: relative;
